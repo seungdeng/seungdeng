@@ -5,8 +5,8 @@
 
 <div align="center">
   <img width="800px" src="https://github.com/j-nary/j-nary/blob/master/logo_unscreen.gif" />
-  <img src="https://github-readme-stats.vercel.app/api?username=j-nary&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-nary&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=seungdeng&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seungdeng&layout=compact" />
 </div>
 
 <h3 align="center">✨ Tech Stack ✨</h3>

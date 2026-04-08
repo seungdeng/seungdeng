@@ -31,16 +31,21 @@
 **멀티에이전트 오류 귀인 식별 성능 향상을 위한 윈도우 증강 탐색 방법론** (First Author, 26.04.01 Submit)  
 Window-Augmentation Based Methodology for Improving Error Attribution Performance in Multi-Agent Systems  
 
-
 ###  [serendipity-llm-recommender](https://github.com/KJooolee/serendipity-llm-recommender)
 **필터 버블 완화를 위한 다면적 추천 시스템** (Second Author, JIIS 2026, vol.32, no.1, pp. 49-72)  
 A Multi-Faceted Recommender System for Mitigating Filter Bubbles  
 
-
 ###  [Coding-Practice-Algorithm](https://github.com/seungdeng/Coding-Practice-Algorithm)
-**백준 + 프로그래머스 알고리즘 풀이 아카이브**
+**백준 + 프로그래머스 알고리즘 풀이 아카이브**  
+  
+###  [chatbot-project](https://github.com/DSLab-MultiAgent/chatbot-project)
+**멀티에이전트 RAG 기반 교학팀 문의 자동 응답 시스템**   
 
+###  [2026-Seoul-Bigdata-Contest](https://github.com/2026-DSLab/2026-Seoul-Bigdata-Contest)
+**서울시 빅데이터 활용 경진대회(진행중)**  
 
+  
+  
 ## 📊 Baekjoon Profile
 
 <div align="center">

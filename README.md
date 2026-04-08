@@ -4,7 +4,7 @@
 
 ### AI 시스템 · LLM 에이전트 · 추천시스템 · 알고리즘 문제 해결
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1500&pause=1200&color=2CF796&center=true&vCenter=true&width=700&lines=LLM+Agent+System+연구;Error+Attribution+분석;추천시스템+및+AI+응용+개발)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1500&pause=1200&color=2CF796&center=true&vCenter=true&width=700&lines=LLM+Agent+System;Error+Attribution+Analysis;LLM-based+Recommender+System)](https://git.io/typing-svg)
 
 </div>
 

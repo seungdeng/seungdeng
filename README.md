@@ -2,7 +2,7 @@
 
 # 👋 이승건입니다
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1500&pause=1200&color=2CF796&center=true&vCenter=true&width=700&lines=LLM+Agent+System;Error+Attribution+Analysis;LLM-based+Recommender+System)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1500&pause=1200&color=2CF796&center=true&vCenter=true&width=700&lines=LLM+Multi+Agent+System;Error+Attribution+Analysis;LLM-based+Recommender+System)](https://git.io/typing-svg)
 
 </div>
 

@@ -28,7 +28,7 @@
 ## 📌 주요 프로젝트
 
 ###  [Window-Augmentation-Based-Error-Attribution](https://github.com/seungdeng/Window-Augmentation-Based-Error-Attribution)
-**멀티에이전트 오류 귀인 식별 성능 향상을 위한 윈도우 증강 탐색 방법론** (First Author, 26.04.01 Submit)  
+**멀티에이전트 오류 귀인 식별 성능 향상을 위한 윈도우 증강 탐색 방법론** (First Author, JKSCI May 2026, vol.31, no. 5, pp. 55-66)  
 Window-Augmentation Based Methodology for Improving Error Attribution Performance in Multi-Agent Systems  
 
 ###  [serendipity-llm-recommender](https://github.com/KJooolee/serendipity-llm-recommender)
@@ -43,8 +43,11 @@ A Multi-Faceted Recommender System for Mitigating Filter Bubbles
 
 ###  [2026-Seoul-Bigdata-Contest](https://github.com/2026-DSLab/2026-Seoul-Bigdata-Contest)
 **서울시 빅데이터 활용 경진대회(진행중)**  
+상권더하기: LLM 멀티에이전트 기반 고객 중심 유동적 상권 재정의 솔루션 서비스
 
-  
+### [2026-FTC-Contest](https://github.com/2026-DSLab/2026-FTC-Contest)
+**AI 공정거래 법률 분석 시스템 — 헤아림 (Hearim) (진행중)** 
+RAG + MCP + 멀티에이전트를 결합한 공정거래 위반 위험도 진단 시스템  
   
 ## 📊 Baekjoon Profile
 

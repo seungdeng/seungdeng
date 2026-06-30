@@ -46,7 +46,7 @@ A Multi-Faceted Recommender System for Mitigating Filter Bubbles
 상권더하기: LLM 멀티에이전트 기반 고객 중심 유동적 상권 재정의 솔루션 서비스
 
 ### [2026-FTC-Contest](https://github.com/2026-DSLab/2026-FTC-Contest)
-**AI 공정거래 법률 분석 시스템 — 헤아림 (Hearim) (진행중)**  
+**AI 공정거래 법률 분석 시스템 — 헤아림 (Hearim) 🏆 (대상 수상)** 
 RAG + MCP + 멀티에이전트를 결합한 공정거래 위반 위험도 진단 시스템  
   
 ## 📊 Baekjoon Profile

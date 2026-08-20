@@ -11,8 +11,6 @@
 ## 👨‍💻 소개
 
 - 현재 **LLM 멀티에이전트 시스템**과 **오류 귀인** (Error Attribution)을 연구하고 있습니다.
-- 백준 / 프로그래머스를 통해 **알고리즘 문제 해결 능력**을 꾸준히 강화하고 있습니다.
-  
   
 ## 🧠 관심 분야
 
@@ -42,11 +40,11 @@ A Multi-Faceted Recommender System for Mitigating Filter Bubbles
 **멀티에이전트 RAG 기반 교학팀 문의 자동 응답 시스템**   
 
 ###  [2026-Seoul-Bigdata-Contest](https://github.com/2026-DSLab/2026-Seoul-Bigdata-Contest)
-**서울시 빅데이터 활용 경진대회(진행중) 🏆 (최우수상 수상)**  
+**서울시 빅데이터 활용 경진대회(범정부 통합 왕중왕전 진행중) 🏆 (최우수상 수상)**  
 상권더하기: LLM 멀티에이전트 기반 고객 중심 유동적 상권 재정의 솔루션 서비스
 
 ### [2026-FTC-Contest](https://github.com/2026-DSLab/2026-FTC-Contest)
-**AI 공정거래 법률 분석 시스템 — 헤아림 (Hearim) (진행중) 🏆 (대상 수상)**  
+**AI 공정거래 법률 분석 시스템 — 헤아림 (Hearim) (범정부 통합 왕중왕전 진행중) 🏆 (대상 수상)**  
 RAG + MCP + 멀티에이전트를 결합한 공정거래 위반 위험도 진단 시스템  
   
 ## 📊 Baekjoon Profile

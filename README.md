@@ -39,6 +39,9 @@ A Multi-Faceted Recommender System for Mitigating Filter Bubbles
 ###  [chatbot-project](https://github.com/DSLab-MultiAgent/chatbot-project)
 **멀티에이전트 RAG 기반 교학팀 문의 자동 응답 시스템**   
 
+### [MAS_Experiments](https://github.com/seungdeng/MAS_Experiments))  
+**LLM 멀티에이전트 아이디어 구체화 및 실험 설계**  
+
 ###  [2026-Seoul-Bigdata-Contest](https://github.com/2026-DSLab/2026-Seoul-Bigdata-Contest)
 **서울시 빅데이터 활용 경진대회(범정부 통합 왕중왕전 진행중) 🏆 (최우수상 수상)**  
 상권더하기: LLM 멀티에이전트 기반 고객 중심 유동적 상권 재정의 솔루션 서비스

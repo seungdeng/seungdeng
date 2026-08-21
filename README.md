@@ -10,7 +10,7 @@
 
 ## 👨‍💻 소개
 
-- 현재 **LLM 멀티에이전트 시스템**과 **오류 귀인** (Error Attribution)을 연구하고 있습니다.
+- 현재 **LLM 멀티에이전트 시스템**과 **오류 귀인** (Error Attribution)을 중점적으로 연구하고 있습니다.
   
 ## 🧠 관심 분야
 
@@ -39,7 +39,7 @@ A Multi-Faceted Recommender System for Mitigating Filter Bubbles
 ###  [chatbot-project](https://github.com/DSLab-MultiAgent/chatbot-project)
 **멀티에이전트 RAG 기반 교학팀 문의 자동 응답 시스템**   
 
-### [MAS_Experiments](https://github.com/seungdeng/MAS_Experiments))  
+### [MAS_Experiments](https://github.com/seungdeng/MAS_Experiments)  
 **LLM 멀티에이전트 아이디어 구체화 및 실험 설계**  
 
 ###  [2026-Seoul-Bigdata-Contest](https://github.com/2026-DSLab/2026-Seoul-Bigdata-Contest)

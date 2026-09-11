@@ -1,7 +1,5 @@
 <div align="center">
 
-# 👋 이승건입니다  
-
 <img width="1920" height="1080" alt="포폴(파랑버전)" src="https://github.com/user-attachments/assets/18537763-be4f-4354-bd80-4bb8bab662e1" />  
 
 

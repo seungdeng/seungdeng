@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="1920" height="1080" alt="KakaoTalk_20260911_171124788" src="https://github.com/user-attachments/assets/5ae08b89-124e-44e8-8fa7-7df1aa778398" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/d873569b-f532-4fe5-b5cc-5cf77ece4c2e" />
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1500&pause=1200&color=6CA0DC&center=true&vCenter=true&width=700&lines=LLM+Multi+Agent+System;Error+Attribution+Analysis;LLM-based+Recommender+System)](https://git.io/typing-svg)

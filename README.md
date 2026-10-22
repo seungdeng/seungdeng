@@ -1,7 +1,6 @@
 <div align="center">
 
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/d873569b-f532-4fe5-b5cc-5cf77ece4c2e" />
-
+<img width="794" height="1123" alt="제목을 입력해주세요  (1)" src="https://github.com/user-attachments/assets/e40a8c28-4718-4f28-b1f4-5b74c621f4b9" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1500&pause=1200&color=6CA0DC&center=true&vCenter=true&width=700&lines=LLM+Multi+Agent+System;Error+Attribution+Analysis;LLM-based+Recommender+System)](https://git.io/typing-svg)
 
